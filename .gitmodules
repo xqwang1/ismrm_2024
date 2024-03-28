@@ -1,3 +1,6 @@
 [submodule "pulseq"]
 	path = pulseq
 	url = https://github.com/pulseq/pulseq.git
+[submodule "recon_scripts/wave-shuffling"]
+	path = recon_scripts/wave-shuffling
+	url = https://github.com/sidward/wave-shuffling
