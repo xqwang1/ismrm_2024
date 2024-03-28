@@ -2,7 +2,7 @@
 
 # based on the BART tests function
 
-# Authors: Xiaoqing Wang, Berkin Bilgic, Jose Marques, 2023-2024
+# Authors: Xiaoqing Wang, Berkin Bilgic, Jose P. Marques, 2023-2024
 
 # single-echo
 bart wavepsf -x 640 -y 128 wave_psf
