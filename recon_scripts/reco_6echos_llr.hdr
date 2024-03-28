@@ -1,8 +1,0 @@
-# Dimensions
-128 128 1 1 1 6 1 1 1 1 1 1 1 1 1 1 
-# Command
-wave -l -r1e-5 -b8 coils.ra wave_psf wave_ksp_6echos reco_6echos_llr 
-# Files
- >reco_6echos_llr <wave_ksp_6echos <wave_psf <coils.ra
-# Creator
-BART v0.8.00-dirty

@@ -1,8 +1,0 @@
-# Dimensions
-640 128 1 
-# Command
-wavepsf -x 640 -y 128 wave_psf 
-# Files
- >wave_psf
-# Creator
-BART v0.8.00-dirty

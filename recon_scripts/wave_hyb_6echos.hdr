@@ -1,8 +1,0 @@
-# Dimensions
-640 128 1 8 1 6 1 1 1 1 1 1 1 1 1 1 
-# Command
-fft -u 1 wave_zpad wave_hyb_6echos 
-# Files
- >wave_hyb_6echos <wave_zpad
-# Creator
-BART v0.8.00-dirty

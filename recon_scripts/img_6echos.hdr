@@ -1,8 +1,0 @@
-# Dimensions
-128 128 1 8 1 6 1 1 1 1 1 1 1 1 1 1 
-# Command
-repmat 5 6 img img_6echos 
-# Files
- >img_6echos <img
-# Creator
-BART v0.8.00-dirty

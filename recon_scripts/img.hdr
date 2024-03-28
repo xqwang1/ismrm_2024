@@ -1,8 +1,0 @@
-# Dimensions
-128 128 1 8 1 1 1 1 1 1 1 1 1 1 1 1 
-# Command
-fft -iu 7 shepplogan_coil_ksp.ra img 
-# Files
- >img <shepplogan_coil_ksp.ra
-# Creator
-BART v0.8.00-dirty
