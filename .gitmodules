@@ -1,6 +1,3 @@
 [submodule "pulseq"]
 	path = pulseq
 	url = https://github.com/pulseq/pulseq.git
-[submodule "reco/bart"]
-	path = reco/bart
-	url = https://github.com/mrirecon/bart
