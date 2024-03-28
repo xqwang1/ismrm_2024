@@ -1,0 +1,8 @@
+# Dimensions
+640 128 1 8 1 6 1 1 1 1 1 1 1 1 1 1 
+# Command
+resize -c 0 640 img_6echos wave_zpad 
+# Files
+ >wave_zpad <img_6echos
+# Creator
+BART v0.8.00-dirty

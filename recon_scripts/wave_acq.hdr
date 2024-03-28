@@ -1,0 +1,8 @@
+# Dimensions
+640 128 1 8 1 6 1 1 1 1 1 1 1 1 1 1 
+# Command
+fmac wave_hyb_6echos wave_psf wave_acq 
+# Files
+ >wave_acq <wave_psf <wave_hyb_6echos
+# Creator
+BART v0.8.00-dirty
